@@ -1,0 +1,11 @@
+/*css reset*/
+*{
+    padding: 0;
+    margin: 0;
+}
+
+/*css geral*/
+body{
+
+    background-color: black;
+}
